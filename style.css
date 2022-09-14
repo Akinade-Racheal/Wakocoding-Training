@@ -1,0 +1,131 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul{
+    position: relative;
+    float: right;
+    padding-right: 2em;
+}
+
+header nav ul li{
+    display: inline-block;
+    margin-right: 2em;
+    padding-top: 1em;
+}
+
+header nav img{
+    width: 5em;
+}
+
+header nav{
+    background-color: rgba(255, 166, 0, 0.726);
+    padding-top: 1.2em;
+    padding-bottom: 1.2em;
+    padding-left: 5em;
+}
+
+header nav ul li a{
+    font-size: 1.2rem;
+    text-decoration:none ;
+    color: black;
+    font-weight: bold;    
+}
+
+#fine img{
+    position: relative;
+    float: right;
+    width: 30em;
+}
+
+#fine{
+    margin-right: 4em;
+    margin-top: 4em ;
+    margin-bottom: 1.2em;
+}
+
+#correct h1{
+    text-align: center;
+    font-size: 2.8em;
+    margin-top: 1.5em;
+    position: absolute;
+    margin-left: 3.8em;
+}
+
+#coorectguy{
+    position: relative;
+    clear: both;
+}
+
+#coorectguy img{
+    width:30em ;
+    margin-top: 10em;
+    margin-left: 10em;
+    position: absolute;
+}
+#correctgirl{
+    float: right;
+    margin-left: 28em;
+    padding-top: 6em;
+    
+}
+
+#correctgirl h1{
+     text-align: center;
+     font-size: 2.8em ;
+     margin-top: 3em;
+}
+
+#new{
+    clear: both;
+    padding-top: 10em;
+}
+
+#woman{
+    padding-top: 4em;
+    padding-right: 3em;
+} 
+
+.splufic{
+    clear: both;
+    padding-top: 10em;
+}
+.greatly h1{
+    font-size: 1.5rem;
+    border-bottom: 5px solid orange;
+    text-align: center;
+}    
+
+.biggreatly{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+.greatly{
+    margin: auto;
+}
+
+.splufic h1{
+    text-align: center;
+}
+
+.footeritems ul li{
+    list-style: none;
+}
+
+.footercontainer{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+
+}
+
+
+
+
+    
+
+}
+}
